@@ -1,0 +1,17 @@
+{
+  "name": "parse-cs",
+  "version": "1.0.0",
+  "main": "dist/cs-parse.bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "devDependencies": {
+    "webpack-cli": "^6.0.1",
+    "webpack": "^5.99.8"
+  }
+}
